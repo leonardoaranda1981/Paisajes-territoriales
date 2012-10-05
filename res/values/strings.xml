@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PaisajesTerritorialesActivity!</string>
+    <string name="app_name">Paisajes Territoriales</string>
+    <string name="btnSave">Guardar y enviar</string>
+    <string name="btnSend">Enviar</string>
+    <string name="btnStop">Parar</string>
+    <string name="btnBroadcast">Transmitir</string>
+
+</resources>
